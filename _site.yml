@@ -1,11 +1,8 @@
-name: "MattCite"
+name: "my-website"
 navbar:
-  title: "MattCite"
+  title: "My Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
-output_dir: "docs"
+    - text: "About"
+      href: about.html
